@@ -1,4 +1,4 @@
-I am a web and backend developer who has 5 years of experience in the software industry. I can work under tight deadlines and many pressure on time. And also I am passionate about new technologies.
+I am a Laravel backend developer with 5 years of experience in the software industry. I excel at working under tight deadlines and managing high-pressure situations. Additionally, I am passionate about learning and integrating new technologies.
 
 
 ## Github Profile
