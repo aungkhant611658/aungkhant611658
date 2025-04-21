@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **[Your Project or Company]**
 - 🌱 I’m currently learning **[Your Current Learning Topics]**
 - 💬 Ask me about **[Tech you're confident in, e.g., Laravel, Vue, AWS]**
-- 📫 How to reach me **[Your Email or Portfolio]**
+- 📫 How to reach me **[aungkhant611658@gmail.com]**
 - ⚡ Fun fact **[Fun/quirky fact]**
 
 ---
