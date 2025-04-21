@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aung Khant</h1>
-<h3 align="center">A passionate [your role, e.g., Full-Stack Developer] from [Country]</h3>
+<h3 align="center">I am a Fullstack Developer with 5 years of experience in the software industry. I excel at working under tight deadlines and managing high-pressure situations. Additionally, I am passionate about learning and integrating new technologies.</h3>
 
 ---
 
