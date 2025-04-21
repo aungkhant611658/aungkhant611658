@@ -5,8 +5,8 @@
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 🔭 I’m currently working on **[Your Project or Company]**
-- 🌱 I’m currently learning **[Your Current Learning Topics]**
+- 🔭 I’m currently working on **[Source Code Myanmar (https://www.sourcecode.com.mm/)]**
+- 🌱 I’m currently learning **[NextJS]**
 - 💬 Ask me about **[Tech you're confident in, e.g., Laravel, React]**
 - 📫 How to reach me **[aungkhant611658@gmail.com]**
 - ⚡ Fun fact **[Fun/quirky fact]**
