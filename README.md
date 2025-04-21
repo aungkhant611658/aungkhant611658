@@ -7,7 +7,6 @@
 
 - 🔭 I’m currently working on **[Source Code Myanmar]**
 - 🌱 I’m currently learning **[NextJS]**
-- 💬 Ask me about **[Tech you're confident in, e.g., Laravel, React]**
 - 📫 How to reach me **[aungkhant611658@gmail.com]**
 
 ---
