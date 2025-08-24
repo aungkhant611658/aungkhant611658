@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 - 🔭 I’m currently working on **[Source Code Myanmar]**
-- 🌱 I’m currently learning **[NextJS]**
+- 🌱 I’m currently learning **[Machine Learning]**
 - 📫 How to reach me **[aungkhant611658@gmail.com]**
 
 ---
